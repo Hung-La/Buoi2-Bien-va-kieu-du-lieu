@@ -1,0 +1,15 @@
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\bin\Debug\net9.0\Buoi2-Bien KieuDuLieu.exe
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\bin\Debug\net9.0\Buoi2-Bien KieuDuLieu.deps.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\bin\Debug\net9.0\Buoi2-Bien KieuDuLieu.runtimeconfig.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\bin\Debug\net9.0\Buoi2-Bien KieuDuLieu.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\bin\Debug\net9.0\Buoi2-Bien KieuDuLieu.pdb
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.AssemblyInfoInputs.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.AssemblyInfo.cs
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.csproj.CoreCompileInputs.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.sourcelink.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\refint\Buoi2-Bien KieuDuLieu.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.pdb
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\Buoi2-Bien KieuDuLieu.genruntimeconfig.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi2-Bien va kieu du lieu\Buoi2-Bien-va-kieu-du-lieu\Buoi2-Bien KieuDuLieu\Buoi2-Bien KieuDuLieu\obj\Debug\net9.0\ref\Buoi2-Bien KieuDuLieu.dll

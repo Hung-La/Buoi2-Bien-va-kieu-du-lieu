@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Buoi2-Bien KieuDuLieu/1.0.0": {
+        "runtime": {
+          "Buoi2-Bien KieuDuLieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi2-Bien KieuDuLieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

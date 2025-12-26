@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF6394E-CEA1-4965-A3E3-EB07625A5D54}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi2-bien va kieu du lieu\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien kieudulieu\\buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF6394E-CEA1-4965-A3E3-EB07625A5D54}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|solutionrelative:buoi2-kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF6394E-CEA1-4965-A3E3-EB07625A5D54}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi2-bien va kieu du lieu\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien kieudulieu\\buoi2-kieudulieu\\buoi2-kieudulieu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5BF6394E-CEA1-4965-A3E3-EB07625A5D54}|Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj|solutionrelative:buoi2-kieudulieu\\buoi2-kieudulieu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC85D1E-E384-4683-AAF3-D301C27675EF}|Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi2-bien va kieu du lieu\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien kieudulieu\\buoi2-bien kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC85D1E-E384-4683-AAF3-D301C27675EF}|Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj|solutionrelative:buoi2-bien kieudulieu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC85D1E-E384-4683-AAF3-D301C27675EF}|Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi2-bien va kieu du lieu\\buoi2-bien-va-kieu-du-lieu\\buoi2-bien kieudulieu\\buoi2-bien kieudulieu\\buoi2-bien kieudulieu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AFC85D1E-E384-4683-AAF3-D301C27675EF}|Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj|solutionrelative:buoi2-bien kieudulieu\\buoi2-bien kieudulieu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buoi2-KieuDuLieu",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj",
+              "RelativeDocumentMoniker": "Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj",
+              "RelativeToolTip": "Buoi2-KieuDuLieu\\Buoi2-KieuDuLieu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T16:05:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi2-KieuDuLieu\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-KieuDuLieu\\Program.cs*",
+              "RelativeToolTip": "Buoi2-KieuDuLieu\\Program.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:03:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buoi2-Bien KieuDuLieu",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj",
+              "RelativeDocumentMoniker": "Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj",
+              "RelativeToolTip": "Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-26T14:01:53.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi2-Bien KieuDuLieu\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi2-Bien va kieu du lieu\\Buoi2-Bien-va-kieu-du-lieu\\Buoi2-Bien KieuDuLieu\\Buoi2-Bien KieuDuLieu\\Program.cs",
+              "RelativeToolTip": "Buoi2-Bien KieuDuLieu\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:00:22.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
