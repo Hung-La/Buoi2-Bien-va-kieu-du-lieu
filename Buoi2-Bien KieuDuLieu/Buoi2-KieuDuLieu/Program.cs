@@ -125,7 +125,7 @@
 
 
             // Kiểu dữ liệu:
-            // 1. Kiểu giá trị (value type) : int, double, float, long
+            // 1. Kiểu giá trị (value type) : int, double, float, long, struct, enum
             // Lưu trực tiếp giá trị
             // gán biến -> copy giá trị
             // hiệu suất cao và tiết kiệm
@@ -137,7 +137,7 @@
             // mở rộng và linh hoạt
 
 
-            // Vùng nhớ Stack là vùng nhớ tạm thời lưu trữ giá trị của biến cục bộ hoặc địa chỉ biến(tham chiếu).
+            // Vùng nhớ Stack là vùng nhớ tạm thời lưu trữ giá trị của biến cục bộ hoặc địa chỉ biến(địa chỉ tham chiếu).
             // Vung nhớ Heap là vùng nhớ lâu dài vẫn ở trên RAM, lưu trữ giá trị boxing, có hiệu suất thấp hơn Stack. 
 
         }
